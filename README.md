@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Masterhead GIF" width="100%" width="200">
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" alt="Masterhead GIF" width="100%" height="620">
 
 <h1 align="center">Hi 👋, I'm Mohammed Umar</h1>
 <h3 align="center">🚀 Passionate Full-Stack Developer | MERN Stack Enthusiast | Building Scalable & Impactful Solutions</h3>
