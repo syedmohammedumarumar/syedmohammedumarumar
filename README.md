@@ -1,4 +1,4 @@
-[![Masterhead](https://user-images.githubusercontent.com/46995327/169817619-92e89b97-c102-484f-8f98-c93ccf0dd0f4.gif)]
+![Masterhead](https://user-images.githubusercontent.com/46995327/169817619-92e89b97-c102-484f-8f98-c93ccf0dd0f4.gif)]
 <h1 align="center">Hi 👋, I'm Mohammed Umar</h1>
 <h3 align="center">🚀 Passionate Full-Stack Developer | MERN Stack Enthusiast | Building Scalable & Impactful Solutions</h3>
 <img width="400" align="right" src="https://media.licdn.com/dms/image/v2/D5612AQHPo2XcY6F6qQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1709671543058?e=1746662400&v=beta&t=wYBAhOM95jk_lr-Y6RMAtkSgdgz_JeU3r6zHkp31NkY" alt="Coding GIF">
