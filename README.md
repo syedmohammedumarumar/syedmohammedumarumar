@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Masterhead GIF" width="800" height="200">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Masterhead GIF" width="900" height="400">
 <h1 align="center">Hi 👋, I'm Mohammed Umar</h1>
 <h3 align="center">🚀 Passionate Full-Stack Developer | MERN Stack Enthusiast | Building Scalable & Impactful Solutions</h3>
 <img width="400" align="right" src="https://media.licdn.com/dms/image/v2/D5612AQHPo2XcY6F6qQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1709671543058?e=1746662400&v=beta&t=wYBAhOM95jk_lr-Y6RMAtkSgdgz_JeU3r6zHkp31NkY" alt="Coding GIF">
