@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:mohammedumar.447744@gmail.com">
+  <a href="mailto:umar.md.4474@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -132,7 +132,7 @@ const umar = {
   <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:mohammedumar.447744@gmail.com">
+<a href="mailto:umar.md.4474@gmail.com">
   <img src="https://img.shields.io/badge/Drop_me_an_Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
